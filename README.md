@@ -1,2 +1,3 @@
-# learn-vue-nuxt
-Learn Vue.js / Nuxt.js
+# Learn Vue.js
+
+
